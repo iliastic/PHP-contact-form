@@ -6,11 +6,11 @@
 
 Had to make a contact form that sends and cleans emails, names and messages and that will arrive on my personal inbox configured with phpmailer connected with google smtp to send an email.
 
-objective
+**_objective_**
 
 The objective of this challenge is to give you the opportunity to learn PHP by solving a real life need: processing a contact form. Because HTML is good to create the visual interface of the form, but you will need a backend script to actually process the data and compose the email message to be sent to the client. The project is consistent and introduces many interesting problems for your learning.
 
-Learning Objectives
+**_Learning Objectives_**
 
 Thanks to this project, you can learn the following :
 
@@ -24,7 +24,7 @@ Thanks to this project, you can learn the following :
 **_how_**
 
 I started with looking up how I make a form with php that will send my emails and messages
-secondly i
+secondly I started my researh on php form
 
 **_Self-Evaluation Criteria_**
 
