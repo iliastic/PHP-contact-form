@@ -22,6 +22,13 @@ if (isset($_POST["email"])) {
         echo "Please make sure you entered a valid email";
     }
   }
+  if (isset($_POST["message"])) {
+    if (empty($_POST["message"])) {
+      echo "Message is Required";
+    } else {
+      $newMessage = filter_var($bericht, FILTER_SANITIZE_STRING);
+    }
+  }
 }
 
 if (isset($_POST["name"])) {
