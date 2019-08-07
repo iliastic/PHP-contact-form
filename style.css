@@ -5,6 +5,26 @@
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+  opacity: 0.95;
+}
+
+body{ 
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/82464fa3-0c68-442c-8b42-304df6b9a5b1/dpnyx6-9aedbe38-dca1-40b5-ab20-54449a379299.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgyNDY0ZmEzLTBjNjgtNDQyYy04YjQyLTMwNGRmNmI5YTViMVwvZHBueXg2LTlhZWRiZTM4LWRjYTEtNDBiNS1hYjIwLTU0NDQ5YTM3OTI5OS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.L5osln9DrBdBABf7RVg9ydxWU7-bd5W2RGGjLUqqLNE);
+}
+
+#name {
+  font-size: 1.2em;
+  font-family: 'MedievalSharp', cursive;
+}
+
+label{
+  font-size: 1.2em;
+  font-family: 'MedievalSharp', cursive;
+}
+
+#email{
+  font-size: 1.2em;
+  font-family: 'MedievalSharp', cursive;
 }
 
 #page-wrapper {
@@ -47,7 +67,8 @@ input {
   padding: 0.5em 0.5em;
   font-size: 1.2em;
   border-radius: 3px;
-  border: 1px solid #D9D9D9;
+  border: 1px solid #a60016;
+  background-co
 }
 
 textarea {
